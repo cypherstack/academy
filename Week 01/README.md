@@ -1,4 +1,1 @@
-This folder contains all of the materials for Week 1 of the Cryptography course.
-The Lecture is provided for students to follow along.
-The Worksheet is meant to be used in conjunction with the Lecture.
-The Homework is meant to further the lecture but will not be covered directly. It is on the student to complete.
+The first week gives a brief overview of the course. The lecture lays out the core problems that modern cryptography seeks to solve, introduces the Diffie-Hellman Key exchange in simple terms, and dives into the mathematical notation and properties used for the rest of the course.
