@@ -1,0 +1,1 @@
+The course turns to modular arithmetic. The lecture formally constructs modular congruences, builds $\mathbb{Z}_n$ and its arithmetic, inspects zero divisors and units, and solves linear congruences. It closes with the Chinese Remainder Theorem and its applications in modern cryptography.
