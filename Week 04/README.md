@@ -1,0 +1,1 @@
+The discussion of modular arithmetic continues with how exponents behave, and uses these properties to prove the Diffie-Hellman key exchange is well formed. The lecture also examines the flaws the key exchange possesses and how it can be implemented, and finishes with the Discrete Logarithm Problem.
