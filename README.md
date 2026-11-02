@@ -1,1 +1,1 @@
-Learn the basics of cryptography as it pertains to cryptocurrency during this 13 week course.
+Learn the basics of cryptography as it pertains to cryptocurrency during this 13 week course. Each folder will contain all of the materials for that week in the course, including the Lecture, the Worksheet, and the Homework.
