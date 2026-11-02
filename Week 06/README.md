@@ -1,0 +1,1 @@
+This week defines group homomorphisms, establishes the group structure of $\mathbb{Z}_n^\times$ , and proves the existence of primitive roots. The lecture then uses these ideas to analyze the Baby-Step Giant-Step algorithm as an attack, as well as Pollard’s Rho Algorithm.
