@@ -1,0 +1,1 @@
+The lecture expands earlier definitions by introducing rings, fields, and polynomial rings. It shows how to construct certain fields, then constructs the field used in AES, and closes with a general discussion of finite fields.
