@@ -1,0 +1,1 @@
+The course defines the key notions of cryptographic analysis: negligible functions, efficient algorithms, and indistinguishability. The lecture then applies game style analysis to encryption and perfect secrecy.
